@@ -7,6 +7,37 @@ This project implements an Evolutionary Algorithm framework to compare three app
  Random Mutation
  LLM-Guided Mutation
 
+ REQUIRED ENVIRONMENTS
+•	Python 3.9+
+•	Operating System: Windows / MacOS
+
+LIBRARIES USED
+•	Numpy
+•	Matplotlib
+•	Pandas
+•	Openai 
+
+FLOW OF EXECUTION
+•	Initialize System
+	Load Initial Algorithm
+	Set Parameters (population size, generations, mutation rate)
+•	Candidate Generation
+	Apply:
+	Random Mutation
+	LLM-guided Mutation
+	No Evolution
+•	Evalaution
+•	Fitness Calculation
+	Compute weighted fitness score
+•	Selection
+	Retain top-k candidates
+•	Iteration
+	Repeat mutation → evaluation → selection for N generations
+•	Output
+	Best Evolved Solution
+	Fitness Progression
+	Comparative Results
+
 The goal is to analyze how different mutation strategies affect fitness improvement, convergence, and performance.
  Features
  Weighted Fitness Evaluation (CartPole)
@@ -79,6 +110,9 @@ Implemented:
  CSV Export
  Comparison Analysis
  Final Report
+
+Beatrice implemented the selection.py, wrote the slides and compile documents for submission
+
 
 Conclusion
 LLM-guided mutation significantly outperforms traditional approaches by achieving higher fitness and better convergence, demonstrating the effectiveness of intelligent mutation strategies in evolutionary algorithms.
