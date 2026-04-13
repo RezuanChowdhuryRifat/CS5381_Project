@@ -1,0 +1,21 @@
+Student_Name,Mode,Generation,Fitness_Score,Survival_Steps,Runtime_Seconds
+Guanquan Wang,Random,1,21.11,22,0.13
+Guanquan Wang,Random,2,24.93,26,0.23
+Guanquan Wang,Random,3,25.48,26,0.24
+Guanquan Wang,Random,4,32.87,34,0.28
+Guanquan Wang,Random,5,25.62,26,0.29
+Guanquan Wang,Random,6,39.81,40,0.16
+Guanquan Wang,Random,7,25.79,27,0.16
+Guanquan Wang,Random,8,46.69,47,0.23
+Guanquan Wang,Random,9,43.45,44,0.16
+Guanquan Wang,Random,10,47.51,48,0.2
+Guanquan Wang,LLM-Guided,1,30.96,31,3.09
+Guanquan Wang,LLM-Guided,2,35.88,37,2.82
+Guanquan Wang,LLM-Guided,3,58.58,59,2.08
+Guanquan Wang,LLM-Guided,4,81.71,82,2.84
+Guanquan Wang,LLM-Guided,5,108.55,109,3.02
+Guanquan Wang,LLM-Guided,6,82.03,83,2.34
+Guanquan Wang,LLM-Guided,7,68.3,69,2.46
+Guanquan Wang,LLM-Guided,8,134.42,136,2.57
+Guanquan Wang,LLM-Guided,9,80.98,81,2.82
+Guanquan Wang,LLM-Guided,10,164.51,165,1.68
